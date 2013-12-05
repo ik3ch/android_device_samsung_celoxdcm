@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_celox.mk
+    $(LOCAL_DIR)/full_celoxdcm.mk
